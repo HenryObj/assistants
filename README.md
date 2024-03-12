@@ -28,6 +28,11 @@ The product is comprised of:
 - All db functions are in ast_db_base.py and ast_db.py
 - Configurations and Support functions are in the modules called config.py and utilities.py
 
+## Video of the prototype
+
+[![Youtube video](https://img.youtube.com/vi/CbrtrumQj84/maxresdefault.jpg)](https://www.youtube.com/watch?v=CbrtrumQj84)
+
+
 ### 2023 Open AI performance issues ###
 The assistants are not consistently providing answers to the documents attached. The issue seems known in the OAI community. 
 We need to monitor this and if the issue persists, we will move to an internally developed RAG. 
